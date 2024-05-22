@@ -1,0 +1,20 @@
+h1 {
+    color: green;
+    font-family: Arial;
+  }
+  body {
+    background-image: url(th.jpg);
+ }
+  
+  div {
+    background-color: hsla(93, 0%, 100%, 0.5);
+  }
+  
+  p {
+    font-size: 25px;
+  }
+  
+  h1, p {
+    font-family: Arial;
+    color:red;
+  }
